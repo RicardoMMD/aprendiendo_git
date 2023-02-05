@@ -26,6 +26,7 @@ h2{
     padding: 1% 4%;
     background-color: #fff7ec;
     margin: 4% 20%;
+    min-width: 400px;
 }
 .im-bk-card{
     display: block; 
